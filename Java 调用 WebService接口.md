@@ -10,25 +10,25 @@
 
 ## 2、F12 复制网页源代码
 
-![复制这里](F:\MarkDown笔记\中金开发笔记\images\copyCode.png)
+![复制这里](.\images\copyCode.png)
 
 ## 3、在IDEA项目中src自定义目录下新建文件**.wsdl文件
 
-![新建wsdl文件](F:\MarkDown笔记\中金开发笔记\images\newFile.png)
+![新建wsdl文件](.\images\newFile.png)
 
 ## 4、将复制的内容粘贴到文件内，并更改其中代码
 
 将 所有的  <s:element ref="s:schema" />  改成   <s:any minOccurs="2" maxOccurs="2" />  并删掉  <s:any />
 
-![](F:\MarkDown笔记\中金开发笔记\images\replace.png)
+![](.\images\replace.png)
 
 ## 5、自动生成接口类
 
-![生成](F:\MarkDown笔记\中金开发笔记\images\generate.png)
+![生成](.\images\generate.png)
 
-![](F:\MarkDown笔记\中金开发笔记\images\sel.png)
+![](.\images\sel.png)
 
-![](F:\MarkDown笔记\中金开发笔记\images\success.png)
+![](.\images\success.png)
 
 ## 6、实例化接口类，调用接口方法
 
